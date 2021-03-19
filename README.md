@@ -1,3 +1,4 @@
 # Simple-example-of-SpaCy-and-nltk-in-python
 #Further to be worked on
-![alt text](https://github.com/[vivii9630]/[Simple-example-of-SpaCy-and-nltk-in-python]/spacy.jpg?raw=true)
+
+![spacy](https://user-images.githubusercontent.com/72774501/111714963-721c9300-8818-11eb-846c-d9ec3c95df3b.png)
